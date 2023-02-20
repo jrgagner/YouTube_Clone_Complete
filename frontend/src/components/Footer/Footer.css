@@ -1,0 +1,10 @@
+footer {
+  position: absolute;
+    bottom: -415px;
+    font-size: 1.2rem;
+    left: 149px;
+    padding: 0rem;
+    text-align: right;
+    width: 86%;
+    color: darkgray;
+}

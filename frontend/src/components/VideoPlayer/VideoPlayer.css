@@ -1,0 +1,7 @@
+.VideoPlayer{
+    padding: 5px;
+    border-style: groove;
+    background-color: rgb(255, 255, 255);
+    font-style: oblique;
+    color: darkgray;
+}
